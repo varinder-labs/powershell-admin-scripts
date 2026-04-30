@@ -16,6 +16,15 @@ Basic script that checks:
 - IPv4 address information
 - disk space
 
+### Test-NetworkBasics.ps1
+
+Basic network troubleshooting script that checks:
+
+- local IPv4 address information
+- internet connectivity
+- DNS resolution
+- network adapter status
+
 ## Notes
 
 This is an early project. I’ll keep adding scripts as I practice more PowerShell and Windows support tasks.
