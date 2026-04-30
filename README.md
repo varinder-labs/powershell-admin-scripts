@@ -1,23 +1,29 @@
 # PowerShell Admin Scripts
 
-PowerShell scripts for Windows administration, endpoint troubleshooting, and networking diagnostics.
+This repo is where I’m keeping small PowerShell scripts I’m writing while practicing Windows administration and troubleshooting.
+
+I’m using these scripts to build my skills in endpoint support, networking basics and day-to-day IT tasks.
 
 ## Scripts
 
 ### Get-SystemInfo.ps1
-Displays:
-- Computer name
-- Logged in user
+
+Basic script that checks:
+
+- computer name
+- current user
 - Windows version
-- IP addresses
-- Disk usage
+- IPv4 address information
+- disk space
 
-## Skills Demonstrated
-- PowerShell scripting
-- Windows administration
-- Network diagnostics
-- Endpoint troubleshooting
-- Automation basics
+## Notes
 
-## Author
-Varinder Singh
+This is an early project. I’ll keep adding scripts as I practice more PowerShell and Windows support tasks.
+
+## Skills I’m working on
+
+- PowerShell basics
+- Windows troubleshooting
+- networking checks
+- endpoint support
+- clear documentation
